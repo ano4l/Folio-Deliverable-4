@@ -1,6 +1,6 @@
 # Folio - Deliverable 4
 
-**Eduvos Â· Midrand Campus Â· ITMDA3-34 Â· Group 9**
+**Eduvos · Midrand Campus · ITMDA3-34 · Group 9**
 
 Folio is a student workspace for financial documents and study material. It brings document storage, source-linked AI assistance, revision tools and deadline planning into one application.
 
@@ -12,9 +12,8 @@ Folio is a student workspace for financial documents and study material. It brin
 | Application demonstration | [Folio-Demonstration.mp4](Folio-Demonstration.mp4) |
 | PDF for myLMS | [Folio-Deliverable-4-Submission.pdf](Folio-Deliverable-4-Submission.pdf) |
 | User manual | [Folio-User-Manual.pdf](Folio-User-Manual.pdf) |
-| Application screenshots | [Browse screenshots](screenshots/) |
+| Application screenshots | [Browse screenshots](
 
-The **submission PDF** is the single file to upload to myLMS. It uses portrait pages and the Eduvos assessment format, with the repository link, demonstration link and screenshots of the running application. The **user manual** is a separate guide to the application's screens and workflows.
 
 ## Application features
 
@@ -45,15 +44,6 @@ On-screen labels identify the Android emulator capture; there is no audio. Exten
 
 The source ZIP contains the Next.js web application and API, Flutter mobile application, local mobile plugins, database migrations and development documentation. Extract it and open its `Folio/README.md` for setup instructions.
 
-The archive is a source snapshot prepared on **19 October 2026**. It includes the current application changes from that snapshot. Credentials, installed dependencies, generated builds and private capture tools are excluded.
-
-## Demonstration data
-
-The Deliverable 4 screenshots and recording were captured on **20 October 2026** using a temporary demonstration account and synthetic lecture and fee documents. AI answers and quiz questions were requested through the running native app and API. The course, note and revision card were prepared for the walkthrough.
-
-A temporary debug capture build allowed screenshots and screen recording; the submitted source retains its screen protection. The recording begins with an authenticated session. Email delivery, the sign-in/MFA ceremony, physical-device behavior and camera scanning are outside its scope.
-
-AI outputs should be checked against the original source. Study notes and revision data are local to the device. The temporary demonstration account and its stored files were removed after capture. The earlier user manual remains included with its original, separately dated screenshots.
 
 ## Group members
 
