@@ -18,9 +18,9 @@ Upload the **submission PDF** to myLMS. It includes the assessment cover, group 
 
 ## Primary demonstration
 
-**Folio-Demonstration.mp4** is the group's supplied final edit from **22 October 2026**, renamed for submission. It runs **4 minutes 41 seconds** and preserves the supplied video's original audio and picture without re-encoding.
+**Folio-Demonstration.mp4** is the group's supplied final demonstration from **22 October 2026**, renamed for submission. It runs **6 minutes 1 second** and preserves the supplied video's original audio and picture without re-encoding.
 
-The demonstration shows document upload and document questions on mobile first, followed by Study Space creation, a separate lecture upload, AI study questions, quiz interaction and revision. It ends with administration.
+The demonstration shows document upload and document questions on mobile first, followed by Study Space creation, a separate lecture upload, AI study questions, quiz interaction and revision. It closes with a browser walkthrough of the database schema and tables.
 
 If GitHub does not play the video inline, choose **View raw** or download it. The MP4 uses H.264 video and AAC audio.
 
